@@ -21,48 +21,46 @@ Perfumery AI Studio는 원하는 향을 자연어로 표현하고,
 - [GitHub Organization](https://github.com/WantedAI12)
 - [Figma](https://www.figma.com/design/mmN9ALcMmZ2TmnHQQewMsa?node-id=0-1)
 
-<br />
-
 ## 👥 Team Members
 
 ### PM
 
-| Nickname / Name | Role |
-|---|---|
-| 김준성 | PM | https://github.com/junseong2im |
+| Name | Role | GitHub |
+|---|---|---|
+| 김준성 | PM | [junseong2im](https://github.com/junseong2im) |
 
 <br />
 
 ### Design
 
-| Nickname / Name | Role |
-|---|---|
-| 최민서 | Design | 
+| Name | Role | GitHub |
+|---|---|---|
+| 최민서 | Design | — |
 
 <br />
 
 ### Frontend
 
-| Nickname / Name | Role |
-|---|---|
-| 양채현 | Frontend | https://github.com/anwjrdid |
+| Name | Role | GitHub |
+|---|---|---|
+| 양채현 | Frontend | [anwjrdid](https://github.com/anwjrdid) |
 
 <br />
 
 ### Backend
 
-| Nickname / Name | Role |
-|---|---|
-| 인석진 | Backend | https://github.com/sjinssun | 
-| 신준호 | Backend | https://github.com/sinjuno | 
+| Name | Role | GitHub |
+|---|---|---|
+| 인석진 | Backend | [sjinssun](https://github.com/sjinssun) |
+| 신준호 | Backend | [sinjuno](https://github.com/sinjuno) |
 
 <br />
 
 ### AI
 
-| Nickname / Name | Role |
-|---|---|
-| 김준성 | AI | 
+| Name | Role | GitHub |
+|---|---|---|
+| 김준성 | AI | [junseong2im](https://github.com/junseong2im) |
 
 <br />
 
