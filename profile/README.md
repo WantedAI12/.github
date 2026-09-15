@@ -29,7 +29,7 @@ Perfumery AI Studio는 원하는 향을 자연어로 표현하고,
 
 | Nickname / Name | Role |
 |---|---|
-|  | PM | 김준성
+| 김준성 | PM | 
 
 <br />
 
@@ -37,7 +37,7 @@ Perfumery AI Studio는 원하는 향을 자연어로 표현하고,
 
 | Nickname / Name | Role |
 |---|---|
-|  | Design | 최민서
+| 최민서 | Design | 
 
 <br />
 
@@ -45,7 +45,7 @@ Perfumery AI Studio는 원하는 향을 자연어로 표현하고,
 
 | Nickname / Name | Role |
 |---|---|
-|  | Frontend | 양채현
+| 양채현 | Frontend | 양채현
 
 <br />
 
@@ -53,8 +53,8 @@ Perfumery AI Studio는 원하는 향을 자연어로 표현하고,
 
 | Nickname / Name | Role |
 |---|---|
-|  | Backend | 인석진
-|  | Backend | 신준호
+| 인석진 | Backend | 
+| 신준호 | Backend | 
 
 <br />
 
@@ -62,7 +62,7 @@ Perfumery AI Studio는 원하는 향을 자연어로 표현하고,
 
 | Nickname / Name | Role |
 |---|---|
-|  | AI | 김준성
+| 김준성 | AI | 
 
 <br />
 
